@@ -1,18 +1,22 @@
 {
-  "name": "Battery",
-  "description": "Battery provides a good template for an in-app battery/charge indicator with different visualization choices, plus ideas of what could be changed once battery level gets low.",
+  "version": "0.1",
+  "name": "Agile Tour Montreal 2014",
+  "description": "Agile Tour Montreal 2014 on November 15th at UQÀM",
   "launch_path": "/index.html",
   "icons": {
-    "128": "/images/icon-128.png",
-    "512": "/images/icon-512.png"
+    "16": "/images/icon-16.png",
+    "48": "/images/icon-48.png",
+    "128": "/images/icon-128.png"
   },
   "developer": {
-    "name": "Chris Mills",
-    "url": "http://www.conquestofsteel.co.uk"
+    "name": "Léo Davesne",
+    "url": "http://about.me/leodavesne"
   },
-  "permissions": {
-    "desktop-notification": {
-      "description": "Needed for creating system notifications."
+  "locales": {
+    "fr": {
+      "name": "Agile Tour Montréal 2014",
+      "description": "Agile Tour Montréal 2014 : le 15 Novembre à l'UQÀM"
     }
-  }
+  },
+  "default_locale": "en"
 }
