@@ -1,0 +1,11 @@
+Agile Tour Montréal 2014 for Firefox OS
+---------------------------
+  Author: Léo Davesne
+  Site: http://leodavesne.github.io/Agile-Tour-Montreal-2014-for-Firefox-OS
+  Github: https://github.com/leodavesne/Agile-Tour-Montreal-2014-for-Firefox-OS
+
+Contributors on GitHub
+-----------------------
+  leodavesne
+
+Last updated: 25 August 2014
