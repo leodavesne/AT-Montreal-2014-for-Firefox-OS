@@ -5,7 +5,7 @@ Agile Tour Montréal 2014 application for Firefox OS.
 
 Download it for free: (in progress)
 
-Authors
+Author
 -------
 
 Léo Davesne: http://about.me/leodavesne
